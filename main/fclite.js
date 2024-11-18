@@ -128,13 +128,13 @@ function initialize_fc_lite() {
         const randomArticle = allArticles[Math.floor(Math.random() * allArticles.length)];
         randomArticleContainer.innerHTML = `
             <div class="random-container">
-                <div class="random-container-title">随机钓鱼</div>
+                <div class="random-container-title">🪴随机花盆</div>
                 <div class="random-title">${randomArticle.title}</div>
-                <div class="random-author">作者: ${randomArticle.author}</div>
+                <div class="random-author">花名: ${randomArticle.author}</div>
             </div>
             <div class="random-button-container">
-                <a href="#" id="refresh-random-article">刷新</a>
-                <button class="random-link-button" onclick="window.open('${randomArticle.link}', '_blank')">过去转转</button>
+                <a href="#" id="refresh-random-article">🎍换一盆</a>
+                <button class="random-link-button" onclick="window.open('${randomArticle.link}', '_blank')">🚿过去浇浇水</button>
             </div>
         `;
 
