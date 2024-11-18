@@ -9,7 +9,7 @@
 spider_settings:
   enable: true
   json_url: "https://ymxblog.us.kg/friend.json"
-  article_count: 5
+  article_count: 8
   merge_result:
     enable: true
     merge_json_url: "https://fc.ymxapi.us.kg"
