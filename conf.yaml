@@ -9,7 +9,7 @@
 spider_settings:
   enable: true
   json_url: "https://blog.418121.xyz/friend.json"
-  article_count: 10
+  article_count: 12
   merge_result:
     enable: false
     merge_json_url: "https://fc.api.418121.xyz/all.json"
