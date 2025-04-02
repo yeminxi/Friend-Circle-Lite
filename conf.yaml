@@ -62,5 +62,7 @@ smtp:
 specific_RSS:
   - name: "Cloud"
     url: "https://www.cloudofficial.top/rss/feed.xml"
+  - name: "南蛮子懋和"
+    url: "https://www.dao.js.cn/feed.php"
   # - name: "無名小栈"
   #   url: "https://blog.imsyy.top/rss.xml"
