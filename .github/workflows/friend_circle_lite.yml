@@ -38,7 +38,7 @@ jobs:
       run: |
         mkdir -p ./temp
         echo "placeholder" > ./temp/.keep
-        
+
     - name: Download temp file artifact
       uses: dawidd6/action-download-artifact@v6
       with:
